@@ -1,4 +1,4 @@
-# Tesina Impianti di Elaborazione
+# Impianti di Elaborazione
 
 The project, titled **"Impianti di Elaborazione"**, presents a comprehensive analysis of computing system performance and reliability through a series of experiments and advanced data analysis techniques.
 
